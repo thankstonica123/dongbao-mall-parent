@@ -6,9 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="dongbao-generator" />
-        <module name="dongbao-application" />
-        <module name="dongbao-service" />
+        <module name="dongbao-pay-api" />
+        <module name="dongbao-ums-api" />
+        <module name="dongbao-sms-api" />
+        <module name="dongbao-dictionary-api" />
+        <module name="dongbao-cart-api" />
+        <module name="dongbao-pms-api" />
+        <module name="dongbao-cms-api" />
+        <module name="dongbao-oms-api" />
       </profile>
     </annotationProcessing>
   </component>
