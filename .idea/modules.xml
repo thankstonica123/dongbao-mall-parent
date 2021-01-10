@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dongbao-api/dongbao-cart-api/dongbao-cart-api.iml" filepath="$PROJECT_DIR$/dongbao-api/dongbao-cart-api/dongbao-cart-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongbao-api/dongbao-cms-api/dongbao-cms-api.iml" filepath="$PROJECT_DIR$/dongbao-api/dongbao-cms-api/dongbao-cms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongbao-api/dongbao-dictionary-api/dongbao-dictionary-api.iml" filepath="$PROJECT_DIR$/dongbao-api/dongbao-dictionary-api/dongbao-dictionary-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongbao-api/dongbao-oms-api/dongbao-oms-api.iml" filepath="$PROJECT_DIR$/dongbao-api/dongbao-oms-api/dongbao-oms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongbao-api/dongbao-pay-api/dongbao-pay-api.iml" filepath="$PROJECT_DIR$/dongbao-api/dongbao-pay-api/dongbao-pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongbao-api/dongbao-pms-api/dongbao-pms-api.iml" filepath="$PROJECT_DIR$/dongbao-api/dongbao-pms-api/dongbao-pms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongbao-api/dongbao-sms-api/dongbao-sms-api.iml" filepath="$PROJECT_DIR$/dongbao-api/dongbao-sms-api/dongbao-sms-api.iml" />
+    </modules>
+  </component>
+</project>
