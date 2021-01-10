@@ -11,6 +11,16 @@
 
     <artifactId>dongbao-service</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>dongbao-cart</module>
+        <module>dongbao-cms</module>
+        <module>dongbao-dictionary</module>
+        <module>dongbao-oms</module>
+        <module>dongbao-pay</module>
+        <module>dongbao-pms</module>
+        <module>dongbao-sms</module>
+        <module>dongbao-ums</module>
+    </modules>
 
 
 </project>
